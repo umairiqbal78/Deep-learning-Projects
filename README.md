@@ -38,5 +38,7 @@ https://github.com/umairiqbal78/Deep-learning-Projects/blob/main/seq2seq_urdu2en
 
 https://github.com/umairiqbal78/Deep-learning-Projects/blob/main/attention_LSTM.ipynb
 
-### Poetry generator LSTM project
+### Poetry generator LSTM:
+**This LSTM model is trained on poetry dataset. From the dataset model learn the pattern and structure of sentences. Which is used for predicting the poetry by hte model.
+https://github.com/umairiqbal78/Deep-learning-Projects/blob/main/poetry_LSTM.ipynb
 
