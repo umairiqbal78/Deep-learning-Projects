@@ -41,6 +41,14 @@ https://github.com/umairiqbal78/Deep-learning-Projects/blob/main/seq2seq_urdu2en
 https://github.com/umairiqbal78/Deep-learning-Projects/blob/main/attention_LSTM.ipynb
 
 ### Poetry generator LSTM:
-**This LSTM model is trained on poetry dataset. From the dataset model learn the pattern and structure of sentences. Which is used for predicting the poetry by hte model.
+**This LSTM model is trained on poetry dataset. From the dataset model learn the pattern and structure of sentences. Which is used for predicting the poetry by hte model.**
+
 https://github.com/umairiqbal78/Deep-learning-Projects/blob/main/poetry_LSTM.ipynb
 
+### Source Code:
+
+https://github.com/lazyprogrammer/machine_learning_examples
+
+An online cource I followed for the all above is projects is Deep Learning: Advanced NLP and RNNs
+
+https://deeplearningcourses.com/c/deep-learning-advanced-nlp
