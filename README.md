@@ -38,3 +38,5 @@ https://github.com/umairiqbal78/Deep-learning-Projects/blob/main/seq2seq_urdu2en
 
 https://github.com/umairiqbal78/Deep-learning-Projects/blob/main/attention_LSTM.ipynb
 
+### Poetry generator LSTM project
+
