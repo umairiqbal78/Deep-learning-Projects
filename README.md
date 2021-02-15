@@ -12,6 +12,7 @@
 6. "toxic"
 
 **A comment classification has been done using CNN model. 1DConvnet is used for text classification.**
+
 https://github.com/umairiqbal78/Deep-learning-Projects/blob/main/Toxic_comment_classification_using_CNN.ipynb
 
 **A comment classification has been done using LSTM model. I used simple LSTM and Bidirectional LSTM for the good results**
