@@ -14,7 +14,7 @@
 **A comment classification has been done using CNN model. 1DConvnet is used for text classification.**
 https://github.com/umairiqbal78/Deep-learning-Projects/blob/main/Toxic_comment_classification_using_CNN.ipynb
 
-**A comment classification has been done using LSTM model. I used simple LSTM and Bidirectional LSTM for the good results **
+**A comment classification has been done using LSTM model. I used simple LSTM and Bidirectional LSTM for the good results**
 https://github.com/umairiqbal78/Deep-learning-Projects/blob/main/Toxic_comment_classification_using_LSTM.ipynb
 
 ### sequence to sequence (urdu to eng) translation LSTM Model:
@@ -37,3 +37,4 @@ https://github.com/umairiqbal78/Deep-learning-Projects/blob/main/seq2seq_urdu2en
 7. Which is further passed through decoder to get the Output.
 
 https://github.com/umairiqbal78/Deep-learning-Projects/blob/main/attention_LSTM.ipynb
+
