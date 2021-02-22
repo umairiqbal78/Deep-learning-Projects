@@ -49,6 +49,6 @@ https://github.com/umairiqbal78/Deep-learning-Projects/blob/main/poetry_LSTM.ipy
 
 https://github.com/lazyprogrammer/machine_learning_examples
 
-An online cource I followed for the all above is projects is Deep Learning: Advanced NLP and RNNs
+An online cource I followed for the all above projects is Deep Learning: Advanced NLP and RNNs
 
 https://deeplearningcourses.com/c/deep-learning-advanced-nlp
